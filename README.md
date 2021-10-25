@@ -1,4 +1,4 @@
-- 👋 Hello World !!! Hi, I’m @Ken Karlson
+- 👋 Hello World !!! Hi, I’m @Ken Karlson 👍
 - 👀 I’m interested in html, css, javascript, JAVA, Spring
 - 🌱 I’m currently learning to JAVA developer
 - 💞️ I’m looking to collaborate on all open projects to JAVA and WEB
